@@ -1,4 +1,4 @@
-Professional Sales Overview (Power BI)
+Professional Sales Overview (Power BI)                        ![Sales Overview Dashboard](Sales%20Overview%20Project%20Dashboard.jpg)
 🖼️ Dashboard Preview
 📊 Project Goal
 This dashboard was created to help business owners monitor daily sales performance and identify the highest-selling product categories.
